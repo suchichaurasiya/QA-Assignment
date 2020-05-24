@@ -1,0 +1,6 @@
+1)QA_Assignment\src\DataEngine\DataEngine.xls consists of 2 sheets.
+	1)Test Cases sheet-> lists all the Test Cases. User may select Runmode as Yes/No for whichever they want to execute.
+	2)Test Steps sheet--> has all the steps for each Test Case. User can provide Test Data like- Browser,EmailId, Password.
+	3)Post Execution Results Tab would show you Pass/Fail Status.
+
+2) For Detailed logs . refer QA_Assignment\logfile.txt.

@@ -1,0 +1,61 @@
+#Home Page
+btn_Signin=.//*[@class="login"]
+
+#SignIn Page
+txtbx_RegisterEmail=.//*[@id="email_create"]
+btn_creatanAccount=.//*[@id="SubmitCreate"]
+txtbx_LoginEmailId=.//*[@id="email"]
+txtbx_loginPwd=.//*[@id="passwd"]
+txtbx_LoginBtn=.//*[@id="SubmitLogin"]
+
+
+#Create an Account
+txtbx_Password=.//*[@id="passwd"]
+btn_Register=.//*[@id="submitAccount"]
+
+#After Login
+menu_Women=.//*[@href="http://automationpractice.com/index.php?id_category=3&controller=category"]
+menu_Dresses=.//*[contains(text(),"Dresses")]
+menu_CasualDress=.//*[contains(text(),"Casual Dresses")]]
+
+#On item
+btn_quickView=.//*[@class="quick-view"]
+
+#On quick view
+btn_plus=.//*[@class="icon-plus"]
+btn_AddtoCart=.//*[@class="exclusive"]/span[contains(text(),"Add to cart")]
+btn_qvprcdtoChkout=.//*[starts-with(@class,"btn")]/span[contains(text(),"Proceed to checkout")]
+amt_qvTotalProductCost=.//*[@class="layer_cart_row"]/span[@class="ajax_block_products_total"]
+amt_qvTotalShippingCost=.//*[@class="layer_cart_row"]/span[@class="ajax_cart_shipping_cost"]
+amt_qvTotalCost=.//*[@class="layer_cart_row"]/span[@class="ajax_block_cart_total"]
+
+
+
+# On Cart Page
+amt_ctUnitPrice=.//*[@class="cart_unit"]/span[@class="price"]/span[@class="price"]
+no_ctItems=.//*[@class="cart_quantity_input form-control grey"]
+amt_ctTotalProductCost1=.//*[@class="cart_total"]/span[starts-with(@id,"total_product_price")]
+amt_ctTotalProductCost2=.//*[@class="cart_total_price"]/td[@id="total_product"]
+amt_ctTotalShippingCost=.//*[@class="cart_total_delivery"]/td[@id="total_shipping"]
+amt_ctTax=.//*[@class="cart_total_tax"]/td[@id="total_tax"]
+amt_ctTotalCost=.//*[@class="layer_cart_row"]/span[@class="ajax_block_cart_total"]
+btn_ctprcdtoChkout=.//*[starts-with(@class,"button")]/span[contains(text(),"Proceed to checkout")]
+
+
+#On Address Tab
+btn_addprcdtoChkout=.//*[starts-with(@class,"button")]/span[contains(text(),"Proceed to checkout")]
+
+#on Shipping page
+chkbx_T&C=.//*[@id="cgv" and @type="checkbox"]
+btn_shpprcdtoChkout=.//*[starts-with(@class,"button")]/span[contains(text(),"Proceed to checkout")]
+
+#On Payments Tab
+lk_paybyCheaque=.//*[@class="cheque"]
+amt_pmTotalCost=.//*[@id="amount"]
+btn_confirmOrder=.//*[starts-with(@class,"button")]/span[contains(text(),"I confirm my order")]
+
+#footer
+lnk_Orders=.//*[@class="block_content toggle-footer"]//*[@title="My orders"]
+
+#Order History
+amt_ohTotalCost=.//*[@class="history_price"]/span[@class="price"]
