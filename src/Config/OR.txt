@@ -16,13 +16,15 @@ btn_Register=.//*[@id="submitAccount"]
 #After Login
 menu_Women=.//*[@href="http://automationpractice.com/index.php?id_category=3&controller=category"]
 menu_Dresses=.//*[contains(text(),"Dresses")]
-menu_CasualDress=.//*[contains(text(),"Casual Dresses")]]
+menu_CasualDressh=.//*[contains(text(),"Casual Dresses")]
+menu_CasualDressc=.//*[@title="Casual Dresses"]
 
 #On item
+img_item=.//*[@class="product_img_link"]/img[@class="replace-2x img-responsive"]
 btn_quickView=.//*[@class="quick-view"]
 
 #On quick view
-btn_plus=.//*[@class="icon-plus"]
+btn_plus=.//*[@class="btn btn-default button-plus product_quantity_up"]
 btn_AddtoCart=.//*[@class="exclusive"]/span[contains(text(),"Add to cart")]
 btn_qvprcdtoChkout=.//*[starts-with(@class,"btn")]/span[contains(text(),"Proceed to checkout")]
 amt_qvTotalProductCost=.//*[@class="layer_cart_row"]/span[@class="ajax_block_products_total"]

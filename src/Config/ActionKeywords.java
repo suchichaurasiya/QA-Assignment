@@ -4,6 +4,7 @@ package Config;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 //import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -168,19 +169,32 @@ public class ActionKeywords {
  public static void hover(String data, String object) {
   try {
    Log.info("Hover over");
+   WebDriverWait wait = new WebDriverWait(driver, 5);
+   wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(OR.getProperty(object))));
    Actions action = new Actions(driver);
-   WebElement btn = driver.findElement(By.xpath("object"));
+   WebElement btn = driver.findElement(By.xpath(OR.getProperty(object)));
    action.moveToElement(btn).perform();
+   //Thread.sleep(5000);
   } catch (Exception e) {
    Log.info("Not able to Hover --- " + e.getMessage());
    DriverScript.bResult = false;
   }
  }
-
+ public static void scroll (String data, String object) {
+	  try {
+	   Log.info("Scroll page");
+ JavascriptExecutor js = (JavascriptExecutor)driver;
+ js.executeScript("window.scrollTo(0,500);");
+	  }
+	  catch (Exception e) {
+		   Log.info("Not able to scroll---" + e.getMessage());
+		   DriverScript.bResult = false;
+		  }
+ }
  public static int a, b, c, d, e, f;
  public static void getproductcost(String data, String object) {
   try {
-   a = Integer.parseInt(driver.findElement(By.xpath("object")).getText());
+   a = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText());
   } catch (Exception e) {
    Log.info("Not able to getproductcost---" + e.getMessage());
    DriverScript.bResult = false;
@@ -188,7 +202,7 @@ public class ActionKeywords {
  }
  public static void gettotalshipping(String data, String object) {
   try {
-   b = Integer.parseInt(driver.findElement(By.xpath("object")).getText());
+   b = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText());
   } catch (Exception e) {
    Log.info("Not able to gettotalshipping---" + e.getMessage());
    DriverScript.bResult = false;
@@ -196,7 +210,7 @@ public class ActionKeywords {
  }
  public static void getTotal(String data, String object) {
   try {
-   c = Integer.parseInt(driver.findElement(By.xpath("object")).getText());
+   c = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText());
   } catch (Exception e) {
    Log.info("Not able to getTotal- " + e.getMessage());
    DriverScript.bResult = false;
@@ -204,7 +218,7 @@ public class ActionKeywords {
  }
  public static void getperunitcost(String data, String object) {
   try {
-   d = Integer.parseInt(driver.findElement(By.xpath("object")).getText());
+   d = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText());
   } catch (Exception e) {
    Log.info("Not able to getperunitcost\r\n" + "---- " + e.getMessage());
    DriverScript.bResult = false;
@@ -213,7 +227,7 @@ public class ActionKeywords {
 
  public static void getquantity(String data, String object) {
   try {
-   e = Integer.parseInt(driver.findElement(By.xpath("object")).getAttribute("value"));
+   e = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getAttribute("value"));
   } catch (Exception e) {
    Log.info("Not able to getquantity" + e.getMessage());
    DriverScript.bResult = false;
@@ -222,7 +236,7 @@ public class ActionKeywords {
 
  public static void getTax(String data, String object) {
   try {
-   e = Integer.parseInt(driver.findElement(By.xpath("object")).getText());
+   e = Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText());
   } catch (Exception e) {
    Log.info("Not able to gettax" + e.getMessage());
    DriverScript.bResult = false;
@@ -275,9 +289,9 @@ public class ActionKeywords {
   
  public static void verifyTotalCost3(String data, String object) {
 	  try {
-	   if (a == Integer.parseInt(driver.findElement(By.xpath("object")).getText())) {
+	   if (a == Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText())) {
 	    Log.info("Total Cost is same on both payments & Order History page. ");
-	   } else if (a !=Integer.parseInt(driver.findElement(By.xpath("object")).getText())) {
+	   } else if (a !=Integer.parseInt(driver.findElement(By.xpath(OR.getProperty(object))).getText())) {
 	    Log.info("Total Cost is not same across payments & Order History page. ");
 	   }
 

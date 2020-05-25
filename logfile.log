@@ -1,549 +1,415 @@
-2020-05-24 13:31:52,378 INFO  [Log] Opening Browser 
-2020-05-24 13:32:00,430 INFO  [Log] Mozilla browser started 
-2020-05-24 13:32:00,459 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:32:00,459 INFO  [Log] X 
-2020-05-24 13:32:00,459 INFO  [Log] X 
-2020-05-24 13:32:00,459 INFO  [Log] X 
-2020-05-24 13:32:00,459 INFO  [Log] X 
-2020-05-24 13:32:00,461 INFO  [Log] Opening Browser 
-2020-05-24 13:32:10,900 INFO  [Log] Mozilla browser started 
-2020-05-24 13:32:10,918 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:32:10,918 INFO  [Log] X 
-2020-05-24 13:32:10,918 INFO  [Log] X 
-2020-05-24 13:32:10,918 INFO  [Log] X 
-2020-05-24 13:32:11,605 INFO  [Log] X 
-2020-05-24 13:32:21,646 INFO  [Log] Not able to getproductcostUnable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+2020-05-25 21:17:43,495 INFO  [Log] Opening Browser 
+2020-05-25 21:17:53,440 INFO  [Log] Mozilla browser started 
+2020-05-25 21:17:54,304 INFO  [Log] Opening page URL 
+2020-05-25 21:18:17,213 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 21:18:21,912 INFO  [Log] Entering Email Address 
+2020-05-25 21:18:22,303 INFO  [Log] Providing Password  
+2020-05-25 21:18:22,632 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-25 21:18:28,852 INFO  [Log] Hover over 
+2020-05-25 21:18:29,419 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 21:18:29,419 INFO  [Log] X 
+2020-05-25 21:18:29,419 INFO  [Log] X 
+2020-05-25 21:18:29,419 INFO  [Log] X 
+2020-05-25 21:18:29,419 INFO  [Log] X 
+2020-05-25 21:18:29,420 INFO  [Log] Hover over 
+2020-05-25 21:18:29,678 INFO  [Log] Hover over 
+2020-05-25 21:18:29,945 INFO  [Log] Hover over 
+2020-05-25 21:18:30,187 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-25 21:18:33,626 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-25 21:18:33,701 INFO  [Log] Not able to  to Click--btn_quickView---Element <a class="quick-view" href="http://automationpractice.com/index.php?id_product=3&controller=product"> could not be scrolled into view
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 24080, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 40c33fc9-a8ec-4dae-8e49-ca5ba751152f
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 13:32:21,647 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:32:21,647 INFO  [Log] X 
-2020-05-24 13:32:21,648 INFO  [Log] X 
-2020-05-24 13:32:21,648 INFO  [Log] X 
-2020-05-24 13:32:21,648 INFO  [Log] X 
-2020-05-24 13:32:31,676 INFO  [Log] Not able to getproductcostUnable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 2652, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c53fa244-bedd-48da-9ca5-4cce32accaac 
+2020-05-25 21:18:33,857 INFO  [Log] Closing Browser 
+2020-05-25 21:18:33,961 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 21:18:33,961 INFO  [Log] X 
+2020-05-25 21:18:33,961 INFO  [Log] X 
+2020-05-25 21:18:33,961 INFO  [Log] X 
+2020-05-25 21:18:33,961 INFO  [Log] X 
+2020-05-25 21:23:04,682 INFO  [Log] Opening Browser 
+2020-05-25 21:23:14,272 INFO  [Log] Mozilla browser started 
+2020-05-25 21:23:15,015 INFO  [Log] Opening page URL 
+2020-05-25 21:23:38,462 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 21:23:40,974 INFO  [Log] Entering Email Address 
+2020-05-25 21:23:41,395 INFO  [Log] Providing Password  
+2020-05-25 21:23:41,773 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-25 21:23:46,949 INFO  [Log] Hover over 
+2020-05-25 21:23:47,651 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 21:23:47,651 INFO  [Log] X 
+2020-05-25 21:23:47,651 INFO  [Log] X 
+2020-05-25 21:23:47,651 INFO  [Log] X 
+2020-05-25 21:23:47,651 INFO  [Log] X 
+2020-05-25 21:23:47,652 INFO  [Log] Hover over 
+2020-05-25 21:23:48,024 INFO  [Log] Hover over 
+2020-05-25 21:23:48,743 INFO  [Log] Hover over 
+2020-05-25 21:23:48,959 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-25 21:23:51,899 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-25 21:24:01,940 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-25 21:24:02,026 INFO  [Log] Closing Browser 
+2020-05-25 21:24:02,091 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 21:24:02,091 INFO  [Log] X 
+2020-05-25 21:24:02,092 INFO  [Log] X 
+2020-05-25 21:24:02,092 INFO  [Log] X 
+2020-05-25 21:24:02,092 INFO  [Log] X 
+2020-05-25 22:32:50,518 INFO  [Log] Opening Browser 
+2020-05-25 22:32:57,766 INFO  [Log] Mozilla browser started 
+2020-05-25 22:32:58,529 INFO  [Log] Opening page URL 
+2020-05-25 22:33:11,240 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 22:33:14,312 INFO  [Log] Entering Email Address 
+2020-05-25 22:33:14,773 INFO  [Log] Providing Password  
+2020-05-25 22:33:15,224 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-25 22:33:17,478 INFO  [Log] Hover over 
+2020-05-25 22:33:18,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 22:33:18,052 INFO  [Log] X 
+2020-05-25 22:33:18,052 INFO  [Log] X 
+2020-05-25 22:33:18,052 INFO  [Log] X 
+2020-05-25 22:33:18,052 INFO  [Log] X 
+2020-05-25 22:33:18,054 INFO  [Log] Hover over 
+2020-05-25 22:33:18,412 INFO  [Log] Hover over 
+2020-05-25 22:33:18,753 INFO  [Log] Hover over 
+2020-05-25 22:33:19,071 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-25 22:33:55,172 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-25 22:34:05,304 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-25 22:34:05,908 INFO  [Log] Closing Browser 
+2020-05-25 22:34:05,993 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 22:34:05,993 INFO  [Log] X 
+2020-05-25 22:34:05,993 INFO  [Log] X 
+2020-05-25 22:34:05,993 INFO  [Log] X 
+2020-05-25 22:34:05,993 INFO  [Log] X 
+2020-05-25 23:21:37,215 INFO  [Log] Opening Browser 
+2020-05-25 23:21:44,568 INFO  [Log] Mozilla browser started 
+2020-05-25 23:21:45,201 INFO  [Log] Opening page URL 
+2020-05-25 23:21:56,306 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 23:21:59,289 INFO  [Log] Entering Email Address 
+2020-05-25 23:21:59,643 INFO  [Log] Providing Password  
+2020-05-25 23:22:00,046 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-25 23:22:29,175 INFO  [Log] Hover over 
+2020-05-25 23:22:29,735 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:22:29,735 INFO  [Log] X 
+2020-05-25 23:22:29,735 INFO  [Log] X 
+2020-05-25 23:22:29,735 INFO  [Log] X 
+2020-05-25 23:22:29,735 INFO  [Log] X 
+2020-05-25 23:22:29,736 INFO  [Log] Hover over 
+2020-05-25 23:22:29,991 INFO  [Log] Hover over 
+2020-05-25 23:22:30,240 INFO  [Log] Hover over 
+2020-05-25 23:22:30,472 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-25 23:22:35,174 INFO  [Log] Scroll page 
+2020-05-25 23:22:35,306 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-25 23:22:45,350 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-25 23:22:45,413 INFO  [Log] Closing Browser 
+2020-05-25 23:22:45,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:22:45,576 INFO  [Log] X 
+2020-05-25 23:22:45,576 INFO  [Log] X 
+2020-05-25 23:22:45,576 INFO  [Log] X 
+2020-05-25 23:22:45,576 INFO  [Log] X 
+2020-05-25 23:23:42,903 INFO  [Log] Opening Browser 
+2020-05-25 23:23:50,841 INFO  [Log] Mozilla browser started 
+2020-05-25 23:23:51,453 INFO  [Log] Opening page URL 
+2020-05-25 23:28:07,500 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 23:28:09,058 INFO  [Log] Not able to  to Click--btn_Signin---Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 24080, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 40c33fc9-a8ec-4dae-8e49-ca5ba751152f
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 13:32:31,681 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:32:31,681 INFO  [Log] X 
-2020-05-24 13:32:31,681 INFO  [Log] X 
-2020-05-24 13:32:31,682 INFO  [Log] X 
-2020-05-24 13:32:31,682 INFO  [Log] X 
-2020-05-24 13:48:05,055 INFO  [Log] Opening Browser 
-2020-05-24 13:48:14,560 INFO  [Log] Mozilla browser started 
-2020-05-24 13:48:15,286 INFO  [Log] Opening page URL 
-2020-05-24 13:48:26,943 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 13:48:30,497 INFO  [Log] Entering Email Address 
-2020-05-24 13:48:31,681 INFO  [Log] Clicking button   ---btn_creatanAccount 
-2020-05-24 13:48:32,117 INFO  [Log] Providing registration details 
-2020-05-24 13:48:36,038 INFO  [Log] Providing Password  
-2020-05-24 13:48:36,358 INFO  [Log] Clicking button   ---btn_Register 
-2020-05-24 13:48:39,570 INFO  [Log] Closing Browser 
-2020-05-24 13:48:44,454 INFO  [Log] Opening Browser 
-2020-05-24 13:48:53,409 INFO  [Log] Mozilla browser started 
-2020-05-24 13:48:53,746 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:48:53,749 INFO  [Log] X 
-2020-05-24 13:48:53,749 INFO  [Log] X 
-2020-05-24 13:48:53,749 INFO  [Log] X 
-2020-05-24 13:48:53,749 INFO  [Log] X 
-2020-05-24 13:48:53,751 INFO  [Log] Opening Browser 
-2020-05-24 13:49:04,572 INFO  [Log] Mozilla browser started 
-2020-05-24 13:49:04,680 INFO  [Log] Opening page URL 
-2020-05-24 13:49:14,661 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 13:49:17,250 INFO  [Log] Entering Email Address 
-2020-05-24 13:49:17,972 INFO  [Log] Providing Password  
-2020-05-24 13:49:18,327 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 13:49:21,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:49:21,276 INFO  [Log] X 
-2020-05-24 13:49:21,276 INFO  [Log] X 
-2020-05-24 13:49:21,276 INFO  [Log] X 
-2020-05-24 13:49:21,276 INFO  [Log] X 
-2020-05-24 13:49:31,340 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 24380, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 15cd9773-5a0b-4628-a743-7169089737cf
+*** Element info: {Using=xpath, value=.//*[@class="login"]} 
+2020-05-25 23:28:09,248 INFO  [Log] Closing Browser 
+2020-05-25 23:28:09,450 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:28:09,450 INFO  [Log] X 
+2020-05-25 23:28:09,450 INFO  [Log] X 
+2020-05-25 23:28:09,450 INFO  [Log] X 
+2020-05-25 23:28:09,450 INFO  [Log] X 
+2020-05-25 23:28:09,453 INFO  [Log] Hover over 
+2020-05-25 23:28:09,463 INFO  [Log] Not able to Hover --- Tried to run command without establishing a connection
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 8736, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 3b4a4c5c-d452-427f-81b9-5a92b292bf72
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 13:49:31,735 INFO  [Log] Closing Browser 
-2020-05-24 13:49:38,028 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:49:38,028 INFO  [Log] X 
-2020-05-24 13:49:38,028 INFO  [Log] X 
-2020-05-24 13:49:38,028 INFO  [Log] X 
-2020-05-24 13:49:38,028 INFO  [Log] X 
-2020-05-24 13:49:38,030 INFO  [Log] Not able to getproductcost---Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: driver.version: RemoteWebDriver 
-2020-05-24 13:49:38,085 INFO  [Log] Closing Browser 
-2020-05-24 13:49:38,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 13:49:38,246 INFO  [Log] X 
-2020-05-24 13:49:38,246 INFO  [Log] X 
-2020-05-24 13:49:38,246 INFO  [Log] X 
-2020-05-24 13:49:38,246 INFO  [Log] X 
-2020-05-24 14:03:41,784 INFO  [Log] Opening Browser 
-2020-05-24 14:03:50,777 INFO  [Log] Mozilla browser started 
-2020-05-24 14:03:51,446 INFO  [Log] Opening page URL 
-2020-05-24 14:04:03,343 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:04:10,169 INFO  [Log] Entering Email Address 
-2020-05-24 14:04:10,728 INFO  [Log] Providing Password  
-2020-05-24 14:04:11,175 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:04:13,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:04:13,959 INFO  [Log] X 
-2020-05-24 14:04:13,959 INFO  [Log] X 
-2020-05-24 14:04:13,959 INFO  [Log] X 
-2020-05-24 14:04:13,959 INFO  [Log] X 
-2020-05-24 14:04:24,007 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 15304, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: d05d62b8-06b0-49fa-91b6-096eef37436e
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:04:24,111 INFO  [Log] Closing Browser 
-2020-05-24 14:04:24,197 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:04:24,197 INFO  [Log] X 
-2020-05-24 14:04:24,197 INFO  [Log] X 
-2020-05-24 14:04:24,197 INFO  [Log] X 
-2020-05-24 14:04:24,197 INFO  [Log] X 
-2020-05-24 14:04:34,209 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 15304, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: d05d62b8-06b0-49fa-91b6-096eef37436e
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:04:34,282 INFO  [Log] Closing Browser 
-2020-05-24 14:04:34,361 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:04:34,362 INFO  [Log] X 
-2020-05-24 14:04:34,362 INFO  [Log] X 
-2020-05-24 14:04:34,362 INFO  [Log] X 
-2020-05-24 14:04:34,362 INFO  [Log] X 
-2020-05-24 14:04:34,364 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:04:46,187 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 15304, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: d05d62b8-06b0-49fa-91b6-096eef37436e
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:04:46,548 INFO  [Log] Closing Browser 
-2020-05-24 14:04:46,675 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:04:46,675 INFO  [Log] X 
-2020-05-24 14:04:46,675 INFO  [Log] X 
-2020-05-24 14:04:46,675 INFO  [Log] X 
-2020-05-24 14:04:46,675 INFO  [Log] X 
-2020-05-24 14:06:29,491 INFO  [Log] Opening Browser 
-2020-05-24 14:06:38,996 INFO  [Log] Mozilla browser started 
-2020-05-24 14:06:39,736 INFO  [Log] Opening page URL 
-2020-05-24 14:07:05,335 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:07:08,498 INFO  [Log] Entering Email Address 
-2020-05-24 14:07:08,972 INFO  [Log] Providing Password  
-2020-05-24 14:07:09,424 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:07:12,919 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:07:12,920 INFO  [Log] X 
-2020-05-24 14:07:12,920 INFO  [Log] X 
-2020-05-24 14:07:12,921 INFO  [Log] X 
-2020-05-24 14:07:12,921 INFO  [Log] X 
-2020-05-24 14:07:22,963 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 17688, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: caf6127f-a71a-4275-9e60-b702dd641832
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:07:23,062 INFO  [Log] Closing Browser 
-2020-05-24 14:07:23,176 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:07:23,176 INFO  [Log] X 
-2020-05-24 14:07:23,176 INFO  [Log] X 
-2020-05-24 14:07:23,176 INFO  [Log] X 
-2020-05-24 14:07:23,176 INFO  [Log] X 
-2020-05-24 14:07:33,196 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 17688, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: caf6127f-a71a-4275-9e60-b702dd641832
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:07:33,791 INFO  [Log] Closing Browser 
-2020-05-24 14:07:34,075 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:07:34,076 INFO  [Log] X 
-2020-05-24 14:07:34,079 INFO  [Log] X 
-2020-05-24 14:07:34,079 INFO  [Log] X 
-2020-05-24 14:07:34,079 INFO  [Log] X 
-2020-05-24 14:07:34,089 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:07:47,185 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 17688, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: caf6127f-a71a-4275-9e60-b702dd641832
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:07:47,247 INFO  [Log] Closing Browser 
-2020-05-24 14:07:47,316 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:07:47,316 INFO  [Log] X 
-2020-05-24 14:07:47,316 INFO  [Log] X 
-2020-05-24 14:07:47,317 INFO  [Log] X 
-2020-05-24 14:07:47,317 INFO  [Log] X 
-2020-05-24 14:37:32,592 INFO  [Log] Opening Browser 
-2020-05-24 14:37:40,764 INFO  [Log] Mozilla browser started 
-2020-05-24 14:37:42,555 INFO  [Log] Opening page URL 
-2020-05-24 14:38:18,348 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:39:54,396 INFO  [Log] Entering Email Address 
-2020-05-24 14:39:55,140 INFO  [Log] Providing Password  
-2020-05-24 14:39:55,479 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:39:59,439 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:39:59,439 INFO  [Log] X 
-2020-05-24 14:39:59,440 INFO  [Log] X 
-2020-05-24 14:39:59,440 INFO  [Log] X 
-2020-05-24 14:39:59,440 INFO  [Log] X 
-2020-05-24 14:40:09,470 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 24380, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 15cd9773-5a0b-4628-a743-7169089737cf
+*** Element info: {Using=xpath, value=.//*[@href="http://automationpractice.com/index.php?id_category=3&controller=category"]} 
+2020-05-25 23:28:09,870 INFO  [Log] Closing Browser 
+2020-05-25 23:28:10,256 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:28:10,257 INFO  [Log] X 
+2020-05-25 23:28:10,258 INFO  [Log] X 
+2020-05-25 23:28:10,262 INFO  [Log] X 
+2020-05-25 23:28:10,263 INFO  [Log] X 
+2020-05-25 23:44:54,096 INFO  [Log] Opening Browser 
+2020-05-25 23:45:02,998 INFO  [Log] Mozilla browser started 
+2020-05-25 23:45:03,679 INFO  [Log] Opening page URL 
+2020-05-25 23:45:16,469 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-25 23:45:18,610 INFO  [Log] Entering Email Address 
+2020-05-25 23:45:18,920 INFO  [Log] Providing Password  
+2020-05-25 23:45:19,298 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-25 23:45:21,232 INFO  [Log] Hover over 
+2020-05-25 23:45:21,739 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:45:21,740 INFO  [Log] X 
+2020-05-25 23:45:21,740 INFO  [Log] X 
+2020-05-25 23:45:21,740 INFO  [Log] X 
+2020-05-25 23:45:21,740 INFO  [Log] X 
+2020-05-25 23:45:21,743 INFO  [Log] Hover over 
+2020-05-25 23:45:22,079 INFO  [Log] Hover over 
+2020-05-25 23:45:22,337 INFO  [Log] Hover over 
+2020-05-25 23:45:22,601 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-25 23:45:25,315 INFO  [Log] Scroll page 
+2020-05-25 23:45:25,452 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-25 23:45:35,510 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-25 23:45:35,579 INFO  [Log] Closing Browser 
+2020-05-25 23:45:35,663 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-25 23:45:35,663 INFO  [Log] X 
+2020-05-25 23:45:35,663 INFO  [Log] X 
+2020-05-25 23:45:35,663 INFO  [Log] X 
+2020-05-25 23:45:35,663 INFO  [Log] X 
+2020-05-26 00:15:18,311 INFO  [Log] Opening Browser 
+2020-05-26 00:15:26,923 INFO  [Log] Mozilla browser started 
+2020-05-26 00:15:27,419 INFO  [Log] Opening page URL 
+2020-05-26 00:15:36,838 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 00:15:39,256 INFO  [Log] Entering Email Address 
+2020-05-26 00:15:39,542 INFO  [Log] Providing Password  
+2020-05-26 00:15:40,996 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 00:15:43,351 INFO  [Log] Hover over 
+2020-05-26 00:15:44,112 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:15:44,112 INFO  [Log] X 
+2020-05-26 00:15:44,112 INFO  [Log] X 
+2020-05-26 00:15:44,112 INFO  [Log] X 
+2020-05-26 00:15:44,112 INFO  [Log] X 
+2020-05-26 00:15:44,118 INFO  [Log] Hover over 
+2020-05-26 00:15:44,366 INFO  [Log] Hover over 
+2020-05-26 00:15:44,820 INFO  [Log] Hover over 
+2020-05-26 00:15:45,033 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 00:15:47,486 INFO  [Log] Scroll page 
+2020-05-26 00:15:47,791 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 00:15:57,838 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 00:15:57,897 INFO  [Log] Closing Browser 
+2020-05-26 00:15:57,972 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:15:57,972 INFO  [Log] X 
+2020-05-26 00:15:57,972 INFO  [Log] X 
+2020-05-26 00:15:57,972 INFO  [Log] X 
+2020-05-26 00:15:57,972 INFO  [Log] X 
+2020-05-26 00:16:23,349 INFO  [Log] Opening Browser 
+2020-05-26 00:16:32,262 INFO  [Log] Mozilla browser started 
+2020-05-26 00:16:32,838 INFO  [Log] Opening page URL 
+2020-05-26 00:16:42,680 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 00:16:45,050 INFO  [Log] Entering Email Address 
+2020-05-26 00:16:45,400 INFO  [Log] Providing Password  
+2020-05-26 00:16:45,773 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 00:16:49,797 INFO  [Log] Hover over 
+2020-05-26 00:16:50,313 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:16:50,313 INFO  [Log] X 
+2020-05-26 00:16:50,313 INFO  [Log] X 
+2020-05-26 00:16:50,313 INFO  [Log] X 
+2020-05-26 00:16:50,313 INFO  [Log] X 
+2020-05-26 00:16:50,320 INFO  [Log] Hover over 
+2020-05-26 00:16:50,631 INFO  [Log] Hover over 
+2020-05-26 00:16:50,876 INFO  [Log] Hover over 
+2020-05-26 00:16:51,112 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 00:16:55,766 INFO  [Log] Scroll page 
+2020-05-26 00:16:55,903 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 00:17:05,968 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 00:17:06,212 INFO  [Log] Closing Browser 
+2020-05-26 00:17:06,327 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:17:06,327 INFO  [Log] X 
+2020-05-26 00:17:06,327 INFO  [Log] X 
+2020-05-26 00:17:06,327 INFO  [Log] X 
+2020-05-26 00:17:06,327 INFO  [Log] X 
+2020-05-26 00:17:16,567 INFO  [Log] Opening Browser 
+2020-05-26 00:17:26,511 INFO  [Log] Mozilla browser started 
+2020-05-26 00:17:27,281 INFO  [Log] Opening page URL 
+2020-05-26 00:17:36,990 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 00:17:39,245 INFO  [Log] Entering Email Address 
+2020-05-26 00:17:39,576 INFO  [Log] Providing Password  
+2020-05-26 00:17:40,006 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 00:17:42,307 INFO  [Log] Hover over 
+2020-05-26 00:17:44,000 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:17:44,001 INFO  [Log] X 
+2020-05-26 00:17:44,001 INFO  [Log] X 
+2020-05-26 00:17:44,001 INFO  [Log] X 
+2020-05-26 00:17:44,001 INFO  [Log] X 
+2020-05-26 00:17:44,002 INFO  [Log] Hover over 
+2020-05-26 00:17:44,317 INFO  [Log] Hover over 
+2020-05-26 00:17:44,575 INFO  [Log] Hover over 
+2020-05-26 00:17:44,804 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 00:17:48,431 INFO  [Log] Scroll page 
+2020-05-26 00:17:49,382 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 00:17:59,435 INFO  [Log] Not able to  to Click--btn_quickView---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="quick-view"]/span[contains(@text(),"Quick view")] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 00:17:59,502 INFO  [Log] Closing Browser 
+2020-05-26 00:17:59,590 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:17:59,590 INFO  [Log] X 
+2020-05-26 00:17:59,590 INFO  [Log] X 
+2020-05-26 00:17:59,590 INFO  [Log] X 
+2020-05-26 00:17:59,590 INFO  [Log] X 
+2020-05-26 00:37:49,979 INFO  [Log] Opening Browser 
+2020-05-26 00:37:58,398 INFO  [Log] Mozilla browser started 
+2020-05-26 00:37:59,066 INFO  [Log] Opening page URL 
+2020-05-26 00:38:10,443 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 00:38:13,295 INFO  [Log] Entering Email Address 
+2020-05-26 00:38:13,669 INFO  [Log] Providing Password  
+2020-05-26 00:38:14,021 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 00:38:16,097 INFO  [Log] Hover over 
+2020-05-26 00:38:16,563 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:38:16,563 INFO  [Log] X 
+2020-05-26 00:38:16,563 INFO  [Log] X 
+2020-05-26 00:38:16,563 INFO  [Log] X 
+2020-05-26 00:38:16,563 INFO  [Log] X 
+2020-05-26 00:38:16,565 INFO  [Log] Hover over 
+2020-05-26 00:38:16,874 INFO  [Log] Hover over 
+2020-05-26 00:38:17,301 INFO  [Log] Hover over 
+2020-05-26 00:38:17,840 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 00:38:21,268 INFO  [Log] Scroll page 
+2020-05-26 00:38:21,447 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 00:38:21,553 INFO  [Log] Not able to  to Click--btn_quickView---Element <a class="quick-view" href="http://automationpractice.com/index.php?id_product=3&controller=product"> could not be scrolled into view
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21540, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 78b2689d-bbdc-494c-b0aa-8786e344641b
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:40:09,648 INFO  [Log] Closing Browser 
-2020-05-24 14:40:09,756 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:40:09,756 INFO  [Log] X 
-2020-05-24 14:40:09,756 INFO  [Log] X 
-2020-05-24 14:40:09,756 INFO  [Log] X 
-2020-05-24 14:40:09,756 INFO  [Log] X 
-2020-05-24 14:40:19,777 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 23040, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c1c94c65-8087-4288-80a8-2a5f42ae923c 
+2020-05-26 00:38:21,630 INFO  [Log] Closing Browser 
+2020-05-26 00:38:21,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:38:21,732 INFO  [Log] X 
+2020-05-26 00:38:21,732 INFO  [Log] X 
+2020-05-26 00:38:21,732 INFO  [Log] X 
+2020-05-26 00:38:21,732 INFO  [Log] X 
+2020-05-26 00:42:57,469 INFO  [Log] Opening Browser 
+2020-05-26 00:43:06,913 INFO  [Log] Mozilla browser started 
+2020-05-26 00:43:07,670 INFO  [Log] Opening page URL 
+2020-05-26 00:43:20,152 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 00:43:22,802 INFO  [Log] Entering Email Address 
+2020-05-26 00:43:23,189 INFO  [Log] Providing Password  
+2020-05-26 00:43:23,620 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 00:43:26,260 INFO  [Log] Hover over 
+2020-05-26 00:43:26,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:43:26,862 INFO  [Log] X 
+2020-05-26 00:43:26,862 INFO  [Log] X 
+2020-05-26 00:43:26,862 INFO  [Log] X 
+2020-05-26 00:43:26,862 INFO  [Log] X 
+2020-05-26 00:43:26,870 INFO  [Log] Hover over 
+2020-05-26 00:43:27,253 INFO  [Log] Hover over 
+2020-05-26 00:43:27,550 INFO  [Log] Hover over 
+2020-05-26 00:43:27,790 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 00:43:30,540 INFO  [Log] Scroll page 
+2020-05-26 00:43:30,737 INFO  [Log] Hover over 
+2020-05-26 00:43:30,817 INFO  [Log] Not able to Hover --- TypeError: rect is undefined
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21540, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 78b2689d-bbdc-494c-b0aa-8786e344641b
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:40:19,870 INFO  [Log] Closing Browser 
-2020-05-24 14:40:19,959 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:40:19,959 INFO  [Log] X 
-2020-05-24 14:40:19,959 INFO  [Log] X 
-2020-05-24 14:40:19,959 INFO  [Log] X 
-2020-05-24 14:40:19,959 INFO  [Log] X 
-2020-05-24 14:40:19,961 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:40:32,274 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21540, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 78b2689d-bbdc-494c-b0aa-8786e344641b
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:40:32,362 INFO  [Log] Closing Browser 
-2020-05-24 14:40:32,515 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:40:32,515 INFO  [Log] X 
-2020-05-24 14:40:32,515 INFO  [Log] X 
-2020-05-24 14:40:32,515 INFO  [Log] X 
-2020-05-24 14:40:32,515 INFO  [Log] X 
-2020-05-24 14:42:57,969 INFO  [Log] Opening Browser 
-2020-05-24 14:43:06,518 INFO  [Log] Mozilla browser started 
-2020-05-24 14:43:07,863 INFO  [Log] Opening page URL 
-2020-05-24 14:43:20,277 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:43:33,297 INFO  [Log] Entering Email Address 
-2020-05-24 14:43:33,655 INFO  [Log] Providing Password  
-2020-05-24 14:43:33,982 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:43:36,434 INFO  [Log] Hover over 
-2020-05-24 14:43:46,499 INFO  [Log] Not able to Hover --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20148, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: bcba0394-544e-4534-ae41-4edcc03115d6
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:43:46,579 INFO  [Log] Closing Browser 
-2020-05-24 14:43:46,677 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:43:46,677 INFO  [Log] X 
-2020-05-24 14:43:46,678 INFO  [Log] X 
-2020-05-24 14:43:46,678 INFO  [Log] X 
-2020-05-24 14:43:46,678 INFO  [Log] X 
-2020-05-24 14:43:46,679 INFO  [Log] Hover over 
-2020-05-24 14:43:56,695 INFO  [Log] Not able to Hover --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20148, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: bcba0394-544e-4534-ae41-4edcc03115d6
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:43:56,901 INFO  [Log] Closing Browser 
-2020-05-24 14:43:57,080 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:43:57,080 INFO  [Log] X 
-2020-05-24 14:43:57,081 INFO  [Log] X 
-2020-05-24 14:43:57,081 INFO  [Log] X 
-2020-05-24 14:43:57,081 INFO  [Log] X 
-2020-05-24 14:44:07,105 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20148, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: bcba0394-544e-4534-ae41-4edcc03115d6
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:44:07,171 INFO  [Log] Closing Browser 
-2020-05-24 14:44:07,283 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:44:07,283 INFO  [Log] X 
-2020-05-24 14:44:07,283 INFO  [Log] X 
-2020-05-24 14:44:07,283 INFO  [Log] X 
-2020-05-24 14:44:07,283 INFO  [Log] X 
-2020-05-24 14:44:07,285 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:44:19,180 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 20148, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: bcba0394-544e-4534-ae41-4edcc03115d6
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:44:19,247 INFO  [Log] Closing Browser 
-2020-05-24 14:44:19,340 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:44:19,340 INFO  [Log] X 
-2020-05-24 14:44:19,340 INFO  [Log] X 
-2020-05-24 14:44:19,340 INFO  [Log] X 
-2020-05-24 14:44:19,340 INFO  [Log] X 
-2020-05-24 14:51:06,723 INFO  [Log] Opening Browser 
-2020-05-24 14:51:14,568 INFO  [Log] Mozilla browser started 
-2020-05-24 14:51:15,407 INFO  [Log] Opening page URL 
-2020-05-24 14:51:27,542 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:51:30,768 INFO  [Log] Entering Email Address 
-2020-05-24 14:51:31,802 INFO  [Log] Providing Password  
-2020-05-24 14:51:32,199 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:51:34,991 INFO  [Log] Clicking button   ---menu_Women 
-2020-05-24 14:51:38,771 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:51:38,771 INFO  [Log] X 
-2020-05-24 14:51:38,771 INFO  [Log] X 
-2020-05-24 14:51:38,771 INFO  [Log] X 
-2020-05-24 14:51:38,771 INFO  [Log] X 
-2020-05-24 14:51:38,773 INFO  [Log] Clicking button   ---menu_Women 
-2020-05-24 14:51:38,836 INFO  [Log] Not able to  to Click--menu_Women---Element <title> could not be scrolled into view
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21348, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 8fb28585-236f-4e15-97a3-fe6d85e18048 
-2020-05-24 14:51:38,969 INFO  [Log] Closing Browser 
-2020-05-24 14:51:39,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:51:39,291 INFO  [Log] X 
-2020-05-24 14:51:39,291 INFO  [Log] X 
-2020-05-24 14:51:39,291 INFO  [Log] X 
-2020-05-24 14:51:39,292 INFO  [Log] X 
-2020-05-24 14:51:49,358 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21348, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 8fb28585-236f-4e15-97a3-fe6d85e18048
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:51:49,511 INFO  [Log] Closing Browser 
-2020-05-24 14:51:49,602 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:51:49,603 INFO  [Log] X 
-2020-05-24 14:51:49,603 INFO  [Log] X 
-2020-05-24 14:51:49,603 INFO  [Log] X 
-2020-05-24 14:51:49,603 INFO  [Log] X 
-2020-05-24 14:51:49,606 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:52:06,352 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21348, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 8fb28585-236f-4e15-97a3-fe6d85e18048
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:52:06,541 INFO  [Log] Closing Browser 
-2020-05-24 14:52:06,712 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:52:06,712 INFO  [Log] X 
-2020-05-24 14:52:06,712 INFO  [Log] X 
-2020-05-24 14:52:06,712 INFO  [Log] X 
-2020-05-24 14:52:06,713 INFO  [Log] X 
-2020-05-24 14:58:04,159 INFO  [Log] Opening Browser 
-2020-05-24 14:58:12,848 INFO  [Log] Mozilla browser started 
-2020-05-24 14:58:13,551 INFO  [Log] Opening page URL 
-2020-05-24 14:58:26,836 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 14:58:29,910 INFO  [Log] Entering Email Address 
-2020-05-24 14:58:30,232 INFO  [Log] Providing Password  
-2020-05-24 14:58:30,729 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 14:58:33,765 INFO  [Log] Hover over 
-2020-05-24 14:58:43,809 INFO  [Log] Not able to Hover --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 11428, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: ddde38ee-36df-4036-a150-9484c77349aa
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:58:43,983 INFO  [Log] Closing Browser 
-2020-05-24 14:58:44,084 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:58:44,084 INFO  [Log] X 
-2020-05-24 14:58:44,084 INFO  [Log] X 
-2020-05-24 14:58:44,084 INFO  [Log] X 
-2020-05-24 14:58:44,084 INFO  [Log] X 
-2020-05-24 14:58:44,085 INFO  [Log] Hover over 
-2020-05-24 14:58:54,108 INFO  [Log] Not able to Hover --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 11428, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: ddde38ee-36df-4036-a150-9484c77349aa
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:58:54,442 INFO  [Log] Closing Browser 
-2020-05-24 14:58:54,632 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:58:54,632 INFO  [Log] X 
-2020-05-24 14:58:54,632 INFO  [Log] X 
-2020-05-24 14:58:54,633 INFO  [Log] X 
-2020-05-24 14:58:54,633 INFO  [Log] X 
-2020-05-24 14:59:04,651 INFO  [Log] Not able to getproductcost---Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 11428, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: ddde38ee-36df-4036-a150-9484c77349aa
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:59:05,169 INFO  [Log] Closing Browser 
-2020-05-24 14:59:05,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:59:05,276 INFO  [Log] X 
-2020-05-24 14:59:05,276 INFO  [Log] X 
-2020-05-24 14:59:05,276 INFO  [Log] X 
-2020-05-24 14:59:05,276 INFO  [Log] X 
-2020-05-24 14:59:05,279 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 14:59:17,611 INFO  [Log] Not able to verify --- Unable to locate element: object
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 11428, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: ddde38ee-36df-4036-a150-9484c77349aa
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 14:59:17,712 INFO  [Log] Closing Browser 
-2020-05-24 14:59:17,802 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 14:59:17,802 INFO  [Log] X 
-2020-05-24 14:59:17,802 INFO  [Log] X 
-2020-05-24 14:59:17,802 INFO  [Log] X 
-2020-05-24 14:59:17,802 INFO  [Log] X 
-2020-05-24 15:09:58,046 INFO  [Log] Opening Browser 
-2020-05-24 15:10:18,877 INFO  [Log] Not able to open the Browser --- Timed out waiting for driver server to start.
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: driver.version: ChromeDriver 
-2020-05-24 15:10:21,737 INFO  [Log] Closing Browser 
-2020-05-24 15:10:22,115 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:10:22,115 INFO  [Log] X 
-2020-05-24 15:10:22,115 INFO  [Log] X 
-2020-05-24 15:10:22,115 INFO  [Log] X 
-2020-05-24 15:10:22,118 INFO  [Log] X 
-2020-05-24 15:10:22,123 INFO  [Log] Hover over 
-2020-05-24 15:10:22,219 INFO  [Log] Not able to Hover --- null 
-2020-05-24 15:10:22,417 INFO  [Log] Closing Browser 
-2020-05-24 15:10:22,904 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:10:22,906 INFO  [Log] X 
-2020-05-24 15:10:22,906 INFO  [Log] X 
-2020-05-24 15:10:22,906 INFO  [Log] X 
-2020-05-24 15:10:22,906 INFO  [Log] X 
-2020-05-24 15:10:22,941 INFO  [Log] Not able to getproductcost---null 
-2020-05-24 15:10:23,121 INFO  [Log] Closing Browser 
-2020-05-24 15:10:23,301 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:10:23,301 INFO  [Log] X 
-2020-05-24 15:10:23,301 INFO  [Log] X 
-2020-05-24 15:10:23,301 INFO  [Log] X 
-2020-05-24 15:10:23,301 INFO  [Log] X 
-2020-05-24 15:10:23,303 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 15:10:23,323 INFO  [Log] Not able to  to Click--lnk_Orders---null 
-2020-05-24 15:10:23,543 INFO  [Log] Closing Browser 
-2020-05-24 15:10:23,771 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:10:23,771 INFO  [Log] X 
-2020-05-24 15:10:23,771 INFO  [Log] X 
-2020-05-24 15:10:23,772 INFO  [Log] X 
-2020-05-24 15:10:23,772 INFO  [Log] X 
-2020-05-24 15:11:01,692 INFO  [Log] Opening Browser 
-2020-05-24 15:11:15,044 INFO  [Log] Chrome browser started 
-2020-05-24 15:11:15,660 INFO  [Log] Opening page URL 
-2020-05-24 15:11:30,019 INFO  [Log] Clicking button   ---btn_Signin 
-2020-05-24 15:11:32,559 INFO  [Log] Entering Email Address 
-2020-05-24 15:11:35,635 INFO  [Log] Providing Password  
-2020-05-24 15:11:36,092 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
-2020-05-24 15:11:47,090 INFO  [Log] Hover over 
-2020-05-24 15:11:57,359 INFO  [Log] Not able to Hover --- no such element: Unable to locate element: {"method":"xpath","selector":"object"}
-  (Session info: chrome=81.0.4044.138)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.138 (8c6c7ba89cc9..., userDataDir: C:\Users\Acro\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 86a0e038b9f402248f50e10d31aebe17
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 15:11:57,489 INFO  [Log] Closing Browser 
-2020-05-24 15:11:57,904 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:11:57,904 INFO  [Log] X 
-2020-05-24 15:11:57,904 INFO  [Log] X 
-2020-05-24 15:11:57,904 INFO  [Log] X 
-2020-05-24 15:11:57,904 INFO  [Log] X 
-2020-05-24 15:11:57,907 INFO  [Log] Hover over 
-2020-05-24 15:12:07,966 INFO  [Log] Not able to Hover --- no such element: Unable to locate element: {"method":"xpath","selector":"object"}
-  (Session info: chrome=81.0.4044.138)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.138 (8c6c7ba89cc9..., userDataDir: C:\Users\Acro\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 86a0e038b9f402248f50e10d31aebe17
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 15:12:08,063 INFO  [Log] Closing Browser 
-2020-05-24 15:12:08,245 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:12:08,245 INFO  [Log] X 
-2020-05-24 15:12:08,246 INFO  [Log] X 
-2020-05-24 15:12:08,246 INFO  [Log] X 
-2020-05-24 15:12:08,246 INFO  [Log] X 
-2020-05-24 15:12:18,300 INFO  [Log] Not able to getproductcost---no such element: Unable to locate element: {"method":"xpath","selector":"object"}
-  (Session info: chrome=81.0.4044.138)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.138 (8c6c7ba89cc9..., userDataDir: C:\Users\Acro\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 86a0e038b9f402248f50e10d31aebe17
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 15:12:19,669 INFO  [Log] Closing Browser 
-2020-05-24 15:12:19,834 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:12:19,834 INFO  [Log] X 
-2020-05-24 15:12:19,834 INFO  [Log] X 
-2020-05-24 15:12:19,834 INFO  [Log] X 
-2020-05-24 15:12:19,834 INFO  [Log] X 
-2020-05-24 15:12:19,853 INFO  [Log] Clicking button   ---lnk_Orders 
-2020-05-24 15:12:32,272 INFO  [Log] Not able to verify --- no such element: Unable to locate element: {"method":"xpath","selector":"object"}
-  (Session info: chrome=81.0.4044.138)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'ACRO-PC', ip: '192.168.1.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.138 (8c6c7ba89cc9..., userDataDir: C:\Users\Acro\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 86a0e038b9f402248f50e10d31aebe17
-*** Element info: {Using=xpath, value=object} 
-2020-05-24 15:12:32,360 INFO  [Log] Closing Browser 
-2020-05-24 15:12:32,876 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2020-05-24 15:12:32,876 INFO  [Log] X 
-2020-05-24 15:12:32,876 INFO  [Log] X 
-2020-05-24 15:12:32,876 INFO  [Log] X 
-2020-05-24 15:12:32,876 INFO  [Log] X 
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200514211331, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 19340, moz:profile: C:\Users\Acro\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b0432777-2baa-4902-8ab9-25150e053fb8 
+2020-05-26 00:43:30,874 INFO  [Log] Closing Browser 
+2020-05-26 00:43:30,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 00:43:30,962 INFO  [Log] X 
+2020-05-26 00:43:30,962 INFO  [Log] X 
+2020-05-26 00:43:30,962 INFO  [Log] X 
+2020-05-26 00:43:30,962 INFO  [Log] X 
+2020-05-26 01:30:49,920 INFO  [Log] Opening Browser 
+2020-05-26 01:31:06,800 INFO  [Log] Mozilla browser started 
+2020-05-26 01:31:08,372 INFO  [Log] Opening page URL 
+2020-05-26 01:31:17,650 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 01:31:21,105 INFO  [Log] Entering Email Address 
+2020-05-26 01:31:21,480 INFO  [Log] Providing Password  
+2020-05-26 01:31:21,926 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 01:31:24,231 INFO  [Log] Hover over 
+2020-05-26 01:31:24,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:31:24,999 INFO  [Log] X 
+2020-05-26 01:31:24,999 INFO  [Log] X 
+2020-05-26 01:31:24,999 INFO  [Log] X 
+2020-05-26 01:31:24,999 INFO  [Log] X 
+2020-05-26 01:31:25,011 INFO  [Log] Hover over 
+2020-05-26 01:31:25,270 INFO  [Log] Hover over 
+2020-05-26 01:31:25,498 INFO  [Log] Hover over 
+2020-05-26 01:31:25,770 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 01:31:28,576 INFO  [Log] Scroll page 
+2020-05-26 01:31:28,783 INFO  [Log] Hover over 
+2020-05-26 01:31:29,055 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 01:31:29,558 INFO  [Log] Clicking button   ---btn_plus 
+2020-05-26 01:31:39,653 INFO  [Log] Not able to  to Click--btn_plus---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="icon-plus"] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 01:31:39,788 INFO  [Log] Closing Browser 
+2020-05-26 01:31:39,853 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:31:39,854 INFO  [Log] X 
+2020-05-26 01:31:39,854 INFO  [Log] X 
+2020-05-26 01:31:39,854 INFO  [Log] X 
+2020-05-26 01:31:39,854 INFO  [Log] X 
+2020-05-26 01:40:54,773 INFO  [Log] Opening Browser 
+2020-05-26 01:41:02,860 INFO  [Log] Mozilla browser started 
+2020-05-26 01:41:04,148 INFO  [Log] Opening page URL 
+2020-05-26 01:41:13,390 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 01:41:15,790 INFO  [Log] Entering Email Address 
+2020-05-26 01:41:16,145 INFO  [Log] Providing Password  
+2020-05-26 01:41:16,475 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 01:41:18,470 INFO  [Log] Hover over 
+2020-05-26 01:41:19,231 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:41:19,231 INFO  [Log] X 
+2020-05-26 01:41:19,231 INFO  [Log] X 
+2020-05-26 01:41:19,231 INFO  [Log] X 
+2020-05-26 01:41:19,231 INFO  [Log] X 
+2020-05-26 01:41:19,232 INFO  [Log] Hover over 
+2020-05-26 01:41:20,178 INFO  [Log] Hover over 
+2020-05-26 01:41:20,431 INFO  [Log] Hover over 
+2020-05-26 01:41:20,634 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 01:41:23,797 INFO  [Log] Scroll page 
+2020-05-26 01:41:23,936 INFO  [Log] Hover over 
+2020-05-26 01:41:24,182 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 01:41:24,670 INFO  [Log] Clicking button   ---btn_plus 
+2020-05-26 01:41:34,717 INFO  [Log] Not able to  to Click--btn_plus---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="icon-plus"] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 01:41:34,773 INFO  [Log] Closing Browser 
+2020-05-26 01:41:35,247 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:41:35,247 INFO  [Log] X 
+2020-05-26 01:41:35,247 INFO  [Log] X 
+2020-05-26 01:41:35,247 INFO  [Log] X 
+2020-05-26 01:41:35,247 INFO  [Log] X 
+2020-05-26 01:46:06,497 INFO  [Log] Opening Browser 
+2020-05-26 01:46:14,472 INFO  [Log] Mozilla browser started 
+2020-05-26 01:46:15,121 INFO  [Log] Opening page URL 
+2020-05-26 01:46:26,770 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 01:46:29,308 INFO  [Log] Entering Email Address 
+2020-05-26 01:46:29,782 INFO  [Log] Providing Password  
+2020-05-26 01:46:30,380 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 01:46:32,807 INFO  [Log] Hover over 
+2020-05-26 01:46:33,312 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:46:33,312 INFO  [Log] X 
+2020-05-26 01:46:33,312 INFO  [Log] X 
+2020-05-26 01:46:33,312 INFO  [Log] X 
+2020-05-26 01:46:33,312 INFO  [Log] X 
+2020-05-26 01:46:33,313 INFO  [Log] Hover over 
+2020-05-26 01:46:33,607 INFO  [Log] Hover over 
+2020-05-26 01:46:33,876 INFO  [Log] Hover over 
+2020-05-26 01:46:34,121 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 01:46:37,065 INFO  [Log] Scroll page 
+2020-05-26 01:46:37,201 INFO  [Log] Hover over 
+2020-05-26 01:46:37,440 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 01:46:37,871 INFO  [Log] Clicking button   ---btn_plus 
+2020-05-26 01:46:47,920 INFO  [Log] Not able to  to Click--btn_plus---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="btn btn-default button-plus product_quantity_up"]//*[@class="icon-plus"] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 01:46:47,967 INFO  [Log] Closing Browser 
+2020-05-26 01:46:48,023 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:46:48,023 INFO  [Log] X 
+2020-05-26 01:46:48,023 INFO  [Log] X 
+2020-05-26 01:46:48,023 INFO  [Log] X 
+2020-05-26 01:46:48,023 INFO  [Log] X 
+2020-05-26 01:52:28,141 INFO  [Log] Opening Browser 
+2020-05-26 01:52:35,878 INFO  [Log] Mozilla browser started 
+2020-05-26 01:52:36,651 INFO  [Log] Opening page URL 
+2020-05-26 01:52:47,497 INFO  [Log] Clicking button   ---btn_Signin 
+2020-05-26 01:52:49,704 INFO  [Log] Entering Email Address 
+2020-05-26 01:52:50,075 INFO  [Log] Providing Password  
+2020-05-26 01:52:50,455 INFO  [Log] Clicking button   ---txtbx_LoginBtn 
+2020-05-26 01:52:52,461 INFO  [Log] Hover over 
+2020-05-26 01:52:52,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:52:52,962 INFO  [Log] X 
+2020-05-26 01:52:52,962 INFO  [Log] X 
+2020-05-26 01:52:52,962 INFO  [Log] X 
+2020-05-26 01:52:52,962 INFO  [Log] X 
+2020-05-26 01:52:52,966 INFO  [Log] Hover over 
+2020-05-26 01:52:53,270 INFO  [Log] Hover over 
+2020-05-26 01:52:53,530 INFO  [Log] Hover over 
+2020-05-26 01:52:53,774 INFO  [Log] Clicking button   ---menu_CasualDressc 
+2020-05-26 01:52:56,212 INFO  [Log] Scroll page 
+2020-05-26 01:52:56,378 INFO  [Log] Hover over 
+2020-05-26 01:52:56,640 INFO  [Log] Clicking button   ---btn_quickView 
+2020-05-26 01:52:57,083 INFO  [Log] Clicking button   ---btn_plus 
+2020-05-26 01:53:07,142 INFO  [Log] Not able to  to Click--btn_plus---Expected condition failed: waiting for presence of element located by: By.xpath: .//*[@class="btn btn-default button-plus product_quantity_up"] (tried for 5 second(s) with 500 milliseconds interval) 
+2020-05-26 01:53:07,204 INFO  [Log] Closing Browser 
+2020-05-26 01:53:07,265 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-05-26 01:53:07,265 INFO  [Log] X 
+2020-05-26 01:53:07,265 INFO  [Log] X 
+2020-05-26 01:53:07,265 INFO  [Log] X 
+2020-05-26 01:53:07,265 INFO  [Log] X 
